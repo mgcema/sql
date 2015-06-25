@@ -1,0 +1,6 @@
+SELECT
+  *
+FROM
+  TABLE1
+WHERE
+  _KEY  = 123
